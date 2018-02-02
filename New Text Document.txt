@@ -245,7 +245,7 @@
         <img src="bandmember.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
       </a>
       <div id="demo" class="collapse">
-        <p>Guitarist and Lead Vocalist</p>
+        <p>Gpuitarist and Lead Vocalist</p>
         <p>Loves long walks on the beach</p>
         <p>Member since 1988</p>
       </div>
